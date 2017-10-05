@@ -1,2 +1,2 @@
-# Curva-de-B-zier
-Prevê e desenha uma curva de Bézier utilizando 4 pontos determinados pelo usuario
+# Curva-de-Bezier
+Preve e desenha uma curva de Bezier utilizando 4 pontos determinados pelo usuario
